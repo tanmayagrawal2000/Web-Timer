@@ -1,0 +1,31 @@
+html{
+    background: linear-gradient(to right, #403A3E, #BE5869);
+    }
+   .title{
+    font-family: Apple Chancery, cursive;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 27;
+    }
+    .in{
+    text-align: center;
+    color: white;
+    margin: 5 20;
+    display: inline-flex;
+    font-size:25px ;
+    }
+    #out{
+    border-style: solid;
+    border: 3px solid white;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+    border-radius: 50;
+    margin: auto;
+    width:500px;
+    }
+   html {
+    background-color: #800080;
+    background-size: cover;
+   }
